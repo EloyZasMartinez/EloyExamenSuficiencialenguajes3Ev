@@ -1,0 +1,7 @@
+<ul class="sidenav admin-sidenav list-unstyled">
+    <li><a href="../"> atras </a></li>
+    <li><a href="#"> Romance </a></li>
+    <li> <a href="#"> Drama </a></li>
+    <li><a href="#"> Accion </a></li>
+    <li> <a href="#"> Animacion </a></li>
+</ul>
